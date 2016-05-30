@@ -23,7 +23,7 @@
   "homepage": "https://github.com/stpettersens/gulp-dos2unix#readme",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "ssp-dos2unix": "^1.0.1",
+    "ssp-dos2unix": "https://github.com/othree/ssp-dos2unix/tarball/node_only",
     "through2": "^2.0.1"
   },
   "devDependencies": {
